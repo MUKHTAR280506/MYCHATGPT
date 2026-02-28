@@ -1,3 +1,10 @@
+<img width="1920" height="964" alt="mychatgpt" src="https://github.com/user-attachments/assets/79ad4748-2744-4614-97c0-41c4ac657306" />
+
+
+
+
+
+
 # 🚀 myChatGpt – Full-Stack Streaming ChatGPT Clone with Persistent Memory
 
 myChatGpt is a production-ready full-stack AI chat application built using **FastAPI**, **React**, **SQLite**, and **OpenAI API**. A full-stack AI chat platform with real-time LLM streaming, persistent conversation memory, dynamic session management, and production-ready API architecture using FastAPI, React, SQLAlchemy, and OpenAI APIs.
